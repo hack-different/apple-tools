@@ -1,0 +1,3 @@
+[submodule "external/meme-apple-tools"]
+	path = external/meme-apple-tools
+	url = https://github.com/meme/apple-tools.git
